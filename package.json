@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gusbarzi/twitterFullstackApp-api.git",
+  "author": {
+    "name": "Gustavo Barzi",
+    "email": "gusbarzisilva@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
